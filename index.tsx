@@ -263,7 +263,7 @@ const Hero = () => (
             <div className="absolute -inset-4 bg-blue-500/10 rounded-[4rem] blur-2xl group-hover:bg-blue-500/20 transition-all duration-700"></div>
             <div className="relative p-2.5 bg-white shadow-2xl rounded-[3rem] border border-slate-50 overflow-hidden">
               <img 
-                src="Willyx1/jean/media/jean.jpg" 
+                src="https://scontent.fnbo19-1.fna.fbcdn.net/v/t1.6435-9/199905352_10226179079289993_3232519293218390942_n.jpg?_nc_cat=101&_nc_cb=99be929b-ad57045b&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEd83_3oWnPTSH4Thi3NopxXClu3bwcHUVcKW7dvBwdRcS7qbNazbV0oBeqH1tqhzRSlD-HHJ3tbSPkUR8UKp-U&_nc_ohc=0pOsggPDyuYQ7kNvwE7Ojtt&_nc_oc=AdkmOGtZrKhZdQ3DCxpm9j667mcFGimVF_BHPzioDtJ_clkcgg_qRi8CpqA2ykpM2m1xJHThk9c_WcLPHg5lZhpE&_nc_zt=23&_nc_ht=scontent.fnbo19-1.fna&_nc_gid=BRPhdLHodJmDZqz0F0OOKQ&oh=00_AfkDQbYgYNl03aKWjGhOt2eG2Nh1fCf1hKV87h6t9viDSQ&oe=6979DA45" 
                 className="w-full aspect-[4/5] object-cover rounded-[2.5rem] grayscale group-hover:grayscale-0 transition-all duration-1000 scale-105 group-hover:scale-100" 
                 alt="Jean de Dieu Nsabimana Portrait"
               />
