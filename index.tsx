@@ -195,7 +195,7 @@ const Hero = () => (
     <div className="absolute top-0 right-0 -z-10 w-full h-full">
       <div className="absolute top-0 right-0 w-full h-full bg-blue-50/30 blur-[120px] rounded-full translate-x-1/3 -translate-y-1/3"></div>
       <img 
-        src="media/jean.jpg" 
+        src="https://www.facebook.com/photo/?fbid=10226179079249992&set=a.1595921784492&__tn__=%3C" 
         className="w-full h-full object-cover opacity-[0.05] grayscale" 
         alt="Institutional Leadership"
       />
