@@ -263,7 +263,7 @@ const Hero = () => (
             <div className="absolute -inset-4 bg-blue-500/10 rounded-[4rem] blur-2xl group-hover:bg-blue-500/20 transition-all duration-700"></div>
             <div className="relative p-2.5 bg-white shadow-2xl rounded-[3rem] border border-slate-50 overflow-hidden">
               <img 
-                src="https://www.facebook.com/photo/?fbid=10226179079249992&set=a.1595921784492&__tn__=%3C" 
+                src="Willyx1/jean/media/jean.jpg" 
                 className="w-full aspect-[4/5] object-cover rounded-[2.5rem] grayscale group-hover:grayscale-0 transition-all duration-1000 scale-105 group-hover:scale-100" 
                 alt="Jean de Dieu Nsabimana Portrait"
               />
